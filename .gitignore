@@ -128,4 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# datasets are too large to store on git
 datasets/*.npy
+datasets/*.h5
