@@ -131,3 +131,6 @@ dmypy.json
 # datasets are too large to store on git
 datasets/*.npy
 datasets/*.h5
+
+# models are too large to store on git
+models/*
